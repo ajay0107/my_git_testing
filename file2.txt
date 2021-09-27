@@ -1,2 +1,3 @@
 file2 is created
 commit3
+commit6
